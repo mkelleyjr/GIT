@@ -1,0 +1,19 @@
+
+
+
+
+ Have files where they need to be.
+ cd to that directory.
+ 
+
+    git init
+
+    git add .
+
+    git commit -m "comments here"
+
+    git remote add origin git@github.com:mkelleyjr/name.git
+
+    git push origin master
+
+    git push origin master --force
